@@ -28,4 +28,4 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdebeterco&show_icons=true&locale=en&layout=compact" alt="lucasdebeterco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdebeterco&" alt="lucasdebeterco" /></p>
+<p><img align="center" width="372" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdebeterco&" alt="lucasdebeterco" /></p>
