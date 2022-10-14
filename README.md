@@ -1,4 +1,4 @@
-<p align="center"><img alt="Car" width="700" height="auto" src="https://i.imgur.com/LpoEqxO.gif"></p>
+<p align="center"><img alt="Car" width="600" height="auto" src="https://i.imgur.com/LpoEqxO.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Lucas Debeterco</h1>
 <h3 align="center">A front-end developer from Brazil</h3>
