@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Magazord**
 
-- 🌱 I’m currently learning **React and PHP**
+- 🌱 I’m currently learning **React, TS and Node**
 
-- 💬 Ask me about **Javascript, Css (Sass), Twig, PHP**
+- 💬 Ask me about **React/TS, Node, JS, Css (Sass), Twig, PHP**
 
 - 📫 How to reach me **lucasdebeterco@gmail.com**
 
