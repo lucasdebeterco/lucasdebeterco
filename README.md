@@ -1,7 +1,7 @@
 <p align="center"><img alt="Car" width="600" height="auto" src="https://i.imgur.com/LpoEqxO.gif"></p>
 
 <h1 align="center">Hi 👋, I'm Lucas Debeterco</h1>
-<h3 align="center">A front-end developer from Brazil</h3>
+<h3 align="center">A software engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdebeterco&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdebeterco" /> </p>
 
