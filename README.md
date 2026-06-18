@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdebeterco&label=Profile%20views&color=0e75b6&style=flat" alt="lucasdebeterco" /> </p>
 
 
-- 🔭 I’m currently working on **Magazord**
+- 🔭 I’m currently working on **CI&T**
 
 - 🌱 I’m currently learning **React, TS and Node**
 
